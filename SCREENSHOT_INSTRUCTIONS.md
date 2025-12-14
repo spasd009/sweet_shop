@@ -74,7 +74,7 @@ git push origin main
 After adding screenshots:
 
 1. **Check GitHub:**
-   - Visit: https://github.com/spasd009/sweet-shop/tree/main/screenshots
+   - Visit: https://github.com/spasd009/sweet-shop/main/screenshots
    - You should see the image files
 
 2. **Check README:**
