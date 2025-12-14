@@ -8,7 +8,7 @@
 
 ```bash
 # In your project folder
-cd C:\Users\akshi\OneDrive\Desktop\sweet-shop
+cd C:C:\Users\spasd\Downloads\sweet-shop-main\sweet-shop-v2
 
 # Initialize git (if not done)
 git init
