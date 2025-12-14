@@ -4,7 +4,7 @@ A full-stack web application for managing a sweet shop inventory, built with **S
 
 ## 🔗 Repository & Live Application
 
-**GitHub Repository:** [https://github.com/Akshit9604/sweet-shop](https://github.com/Akshit9604/sweet-shop)
+**GitHub Repository:** [https://github.com/spasd009/sweet-shop](https://github.com/spasd009/sweet-shop)
 
 **🌐 Live Application (Railway):** [https://web-production-44b0c.up.railway.app](https://web-production-44b0c.up.railway.app)
 
