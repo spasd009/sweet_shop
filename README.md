@@ -146,7 +146,7 @@ Before you begin, ensure you have the following installed:
 #### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/Akshit9604/sweet-shop.git
+git clone https://github.com/spasd009/sweet-shop.git
 cd sweet-shop
 ```
 
