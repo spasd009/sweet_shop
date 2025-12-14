@@ -8,7 +8,7 @@ The README.md is configured to display screenshots, but the image files need to 
 
 ### Option 1: Add Screenshots via GitHub Web Interface (Easiest)
 
-1. **Go to your repository:** https://github.com/Akshit9604/sweet-shop
+1. **Go to your repository:** https://github.com/spasd009/sweet-shop
 2. **Click "Add file" → "Upload files"**
 3. **Navigate to or create `screenshots/` folder**
 4. **Upload your screenshots:**
@@ -74,11 +74,11 @@ git push origin main
 After adding screenshots:
 
 1. **Check GitHub:**
-   - Visit: https://github.com/Akshit9604/sweet-shop/tree/main/screenshots
+   - Visit: https://github.com/spasd009/sweet-shop/tree/main/screenshots
    - You should see the image files
 
 2. **Check README:**
-   - Visit: https://github.com/Akshit9604/sweet-shop
+   - Visit: https://github.com/spasd009/sweet-shop
    - Scroll to "Screenshots" section
    - Images should be visible
 
