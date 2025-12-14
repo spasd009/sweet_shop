@@ -17,7 +17,7 @@ This will automatically start both backend and frontend!
 1. **Open a terminal/command prompt**
 2. **Navigate to project folder:**
    ```bash
-   cd C:\Users\akshi\OneDrive\Desktop\sweet-shop
+   cd C:\Users\spasd\Downloads\sweet-shop-main\sweet-shop-v2
    ```
 
 3. **Start the backend:**
@@ -37,7 +37,7 @@ This will automatically start both backend and frontend!
 1. **Open a NEW terminal/command prompt**
 2. **Navigate to frontend folder:**
    ```bash
-   cd C:\Users\akshi\OneDrive\Desktop\sweet-shop\frontend
+   cd C:C:\Users\spasd\Downloads\sweet-shop-main\sweet-shop-v2\frontend
    ```
 
 3. **Start the frontend:**
