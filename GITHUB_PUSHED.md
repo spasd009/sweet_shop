@@ -18,11 +18,11 @@ Your changes have been successfully pushed to GitHub!
 
 **Repository URL:**
 ```
-https://github.com/akshit9604/sweet-shop
+https://github.com/spasd009/sweet-shop
 ```
 
 **View your code:**
-- Visit: https://github.com/akshit9604/sweet-shop
+- Visit: https://github.com/spasd009/sweet-shop
 - All your code is now on GitHub!
 
 ---
@@ -55,7 +55,7 @@ Now that your code is on GitHub, you can:
 
 - ✅ Code committed locally
 - ✅ Pushed to GitHub
-- ✅ Repository: https://github.com/akshit9604/sweet-shop
+- ✅ Repository: https://github.com/spasd009/sweet-shop
 - ✅ Ready for deployment
 
 ---
